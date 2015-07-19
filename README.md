@@ -17,5 +17,8 @@ $ sudo apt-get install liblua5.1-0-dev
 $ make
 ```
 
+## 参考資料
+- [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
+
 ## ライセンス
 Public Domain
