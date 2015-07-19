@@ -12,7 +12,7 @@ Lua の C++ への組み込みサンプル
 以下は、Ubuntu 14.04 の場合
 
 ```
-$ sudo apt-get install make g++
+$ sudo apt-get install make g++ pkg-config
 $ sudo apt-get install liblua5.1-0-dev
 $ make
 ```
