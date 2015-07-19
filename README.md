@@ -1,6 +1,8 @@
 Lua embedded sample for C++
 ---------------------------
 
+Lua の C++ への組み込みサンプル
+
 ## 動作確認環境
 
 - Ubuntu 14.04 LTS (x64)
